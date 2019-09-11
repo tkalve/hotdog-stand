@@ -1,0 +1,26 @@
+{
+  "name": "sanity-plugin-hotdog-stand",
+  "version": "1.0.0",
+  "description": "A hotdog stand theme for Sanity",
+  "main": "hotdogLogo.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkalve/hotdog-stand.git"
+  },
+  "keywords": [
+    "sanity",
+    "plugin",
+    "part",
+    "theme",
+    "hotdog",
+    "hotdog-stand"
+  ],
+  "author": "Thomas Kalve",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tkalve/hotdog-stand/issues"
+  },
+  "homepage": "https://github.com/tkalve/hotdog-stand#readme"
+}

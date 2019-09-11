@@ -12,3 +12,6 @@ sanity install hotdog-stand
 
 2. ????
 3. Profit!!!
+
+## Credits
+Icons made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com/)

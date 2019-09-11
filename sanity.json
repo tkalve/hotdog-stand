@@ -1,12 +1,8 @@
 {
   "parts": [
     {
-      "implements": "part:@sanity/base/brand-logo",
-      "path": "./hotdogLogo.js"
-    },
-    {
       "implements": "part:@sanity/base/theme/variables/override-style",
-      "path": "./variables.css"
+      "path": "./src/variables.css"
     }
   ]
 }
